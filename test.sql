@@ -6,7 +6,7 @@ CREATE TABLE test (
 );
 
 -- Insertion de données dans la table 'test'
-INSERT INTO test (id, nom, age) VALUES (1, 'Jean', 29);
+INSERT INTO test (id, nom, age) VALUES (1, 'Jean', 38);
 INSERT INTO test (id, nom, age) VALUES (2, 'Marie', 25);
 INSERT INTO test (id, nom, age) VALUES (3, 'Paul', 35);
 INSERT INTO test (id, nom, age) VALUES (4, 'Sophie', 28);
